@@ -1,5 +1,6 @@
 # reading-notes
-
+ My name is Diaa. I graduated from Yarmouk University majoring in accountancy..
+ I have the desire to learn programming to develop my experiences.
 ## **The growth mentality indicates that success does not need intelligence, as it is known ..
  Success needs seriousness and work to reach goals and achieve success.
 
