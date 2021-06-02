@@ -6,7 +6,7 @@
 | ----------- | ----------- |
 | read01      | [link](read01.md)       |
 | lab01       |   [link](lab01.md)      |
-
+| read02      | [link](read02.md)       |
 
 
 
