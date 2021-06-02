@@ -3,6 +3,7 @@ Html used to structure web page and it content .. like alist of bulleted point .
 
 Tosets the title of your page , which is the tltle that appears in the browser tab the page is loaded in 
 
+ HEAD
 title the title element
 
 
@@ -11,10 +12,19 @@ To add a link , we need to use a simple element  being the short form for "ancho
 
 
 
-In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div > ul > li, or .fruits__item?
+To add a link , we need to use a simple element  being the short form for "anchor"
+
+word
+
+
+In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div  ul  li, or .fruits__item?
 
 Semantics in HTML
+
 In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
 
 
 
