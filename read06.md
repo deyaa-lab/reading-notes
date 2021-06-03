@@ -20,7 +20,7 @@ IntermediateUnderstanding client-side JavaScript frameworksJavaScript frameworks
 2.Value = undefined:
  ```
  var carName;
-
+ ```
  3.Re-Declaring JavaScript Variables:
  ```
   var carName;
