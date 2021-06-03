@@ -1,7 +1,8 @@
       JavaScript (JS)
 
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming .language with first-class function.
-JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles. Read more about JavaScript.
+
+JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.
 
 This section is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments.
 
@@ -11,7 +12,9 @@ IntermediateUnderstanding client-side JavaScript frameworksJavaScript frameworks
 
 
  JavaScript Identifiers All JavaScript variables must be identified with unique names.These unique names are
- called identifiers.Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).The general rules for constructing names for variables (unique identifiers) are:Names can contain letters, digits, underscores, and dollar signs.Names must begin with a letterNames can also begin with``` $ ``` and _ (but we will not use it in this tutorial)Names are case sensitive (y and Y are different variables)Reserved words (like JavaScript keywords) cannot be used as namesThe Assignment OperatorIn JavaScript, the equal sign ``` (=) ``` is an "assignment" operator, not an "equal to" operator.This is different from algebra. The following does not make sense in algebra: ``` x = x + 5 ```
+ called identifiers.Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).The general rules for constructing names for variables (unique identifiers) are:Names can contain letters, digits, underscores, and dollar signs.Names must begin with a letterNames can also begin 
+ and _ (but we will not use it in this tutorial)Names are case sensitive (y and Y are different variables)Reserved words (like JavaScript keywords) cannot be used as namesThe Assignment OperatorIn JavaScript, the equal sign  is an "assignment" operator, not an "equal to" operator.This is different from algebra. The following does not make sense in algebra: 
+ 
 
 1. JavaScript Data Types:
  ```
