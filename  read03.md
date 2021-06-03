@@ -16,17 +16,28 @@ To add a link , we need to use a simple element  being the short form for "ancho
 
 To add a link , we need to use a simple element  being the short form for "anchor"
 
+<<<<<<< HEAD
 Attributes contain extra information about the element that you don't want to appear in the actual content. Here, ``class`` is the attribute name and ``editor-note`` is the attribute value. The ``class`` attribute allows you to give the element a non-unique identifier that can be used to target it (and any other elements with the same ``class`` value) with style information and other things.
+=======
+word
+>>>>>>> c04f7e22b0ac0ab61719af7780f3d021c2f36a6b
 
 
 In CSS, consider styling a list with li elements representing different types of fruits. Would you know what part of the DOM is being selected with div  ul  li, or .fruits__item?
 
 Semantics in HTML
 
+<<<<<<< HEAD
 In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
 
 In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
 
+=======
+In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+In HTML, for example, the h1 element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+>>>>>>> c04f7e22b0ac0ab61719af7780f3d021c2f36a6b
 
 
 
