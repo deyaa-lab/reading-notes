@@ -1,4 +1,4 @@
-      JavaScript (JS)
+JavaScript (JS)
 
 JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming .language with first-class function.
 
@@ -15,7 +15,7 @@ IntermediateUnderstanding client-side JavaScript frameworksJavaScript frameworks
  called identifiers.Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).The general rules for constructing names for variables (unique identifiers) are:Names can contain letters, digits, underscores, and dollar signs.Names must begin with a letterNames can also begin 
  and _ (but we will not use it in this tutorial)Names are case sensitive (y and Y are different variables)Reserved words (like JavaScript keywords) cannot be used as namesThe Assignment OperatorIn JavaScript, the equal sign  is an "assignment" operator, not an "equal to" operator.This is different from algebra. The following does not make sense in algebra: 
  
-
+```
 1. JavaScript Data Types:
  ```
  var pi = 3.14;
