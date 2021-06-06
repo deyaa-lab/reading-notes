@@ -28,6 +28,7 @@ Local VariablesVariables declared within a JavaScript function, become LOCAL t
 
 
 JavaScript OperatorsThe assignment operator (=) assigns a value to a variable.
+
 ```var x = 10;
 ```
 The addition operator (+) adds numbers:
